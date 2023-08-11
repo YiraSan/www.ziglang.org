@@ -15,7 +15,7 @@ Cette section liste les ressources utiles pour bien débuter avec Zig et compren
 ## Introduction
 Vous trouverez ici différentes introductions à Zig
 
-- [Vue d'ensemble de Zig](overview/)
+- [Vue d'ensemble du projet Zig](overview/)
 Cette page explique les différentes fonctionnalités de Zig d'un point de vue de la programmation système.
 - [Pourquoi Zig alors qu'il existe déjà C++, D, et Rust ?](why_zig_rust_d_cpp/)
 Introduction à Zig pour les développeurs C++, D, et Rust.
